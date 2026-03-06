@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.class-test {
+    background-color: #E82300;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#unique {
+    color: #0065E8;
+    font-size: 36px;
+}
+
+.class-test.cooler {
+    font-size: 24px;
+}
+
+#also-unique {
+    background-color: #63FF59;
+    font-size: 24px;
+    font-weight: bold;
+}
